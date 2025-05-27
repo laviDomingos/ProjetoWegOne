@@ -14,7 +14,7 @@ public class Main {
             System.out.println("1 - Listar orientações");
             System.out.println("2 - Inserir nova orientação");
             System.out.println("3 - Atualizar orientação");
-            System.out.println("4 - Exclui orientação");
+            System.out.println("4 - Excluir orientação");
             System.out.println("5 - Traduzir orientação");
             System.out.println("0 - Sair");
             System.out.print("Escolha uma opção: ");
