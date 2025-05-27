@@ -2,7 +2,6 @@ package org.example;
 
 import org.example.dao.OrientacaoDAO;
 import org.example.model.Orientacao;
-
 import java.util.Scanner;
 
 public class Main {
