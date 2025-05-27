@@ -6,9 +6,9 @@ import java.sql.SQLException;
 
 public class Conexao {
 
-    private static final String URL = "";
+    private static final String URL = "jdbc:mysql://nozomi.proxy.rlwy.net:51315/db_WegOne";
     private static final String USUARIO = "root";
-    private static final String SENHA = "root";
+    private static final String SENHA = "JKByMgrCgMMVSvufYhcRbtzYDhqpxqQL";
 
     public static Connection getConexao() {
         try {
